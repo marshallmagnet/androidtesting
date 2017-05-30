@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "913447870730",
+    "firebase_url": "https://manga-app-database.firebaseio.com",
+    "project_id": "manga-app-database",
+    "storage_bucket": "manga-app-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913447870730:android:4975c2572bc9efc3",
+        "android_client_info": {
+          "package_name": "com.mangaapp.nexusninja2.mangaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913447870730-j4007714d5jnbvfupusa6dasmal24bp6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mangaapp.nexusninja2.mangaapp",
+            "certificate_hash": "1397a29b9ba0a835b0cce337f6d74c01db6ad078"
+          }
+        },
+        {
+          "client_id": "913447870730-v541h30s47siiqfuc0pv15hf6ehs0v22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALHxWS9bl7tMpp2ZY70BL4f-VagxhLHow"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913447870730-v541h30s47siiqfuc0pv15hf6ehs0v22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913447870730:android:25aa20c4922485ea",
+        "android_client_info": {
+          "package_name": "com.mangaapp.nexusninja2.mangayeah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913447870730-ee94fpsvmkv17u3gekj83enoij4q75g5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mangaapp.nexusninja2.mangayeah",
+            "certificate_hash": "1397a29b9ba0a835b0cce337f6d74c01db6ad078"
+          }
+        },
+        {
+          "client_id": "913447870730-v541h30s47siiqfuc0pv15hf6ehs0v22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALHxWS9bl7tMpp2ZY70BL4f-VagxhLHow"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913447870730-v541h30s47siiqfuc0pv15hf6ehs0v22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
