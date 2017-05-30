@@ -106,6 +106,7 @@ public class HomeActivity extends AppCompatActivity
 //        });
 
         //Posting();
+        //Gwapo si Jan!!!!
     }
 
     @Override
